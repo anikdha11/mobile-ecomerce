@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "name": "Xiaomi Redmi 10A",
+        "ram": "2 / 4 GB",
+        "os": "Android 11 (MIUI 12.5)",
+        "screensize": "6.53 inches",
+        "img":"https://www.mobiledokan.com/wp-content/uploads/2022/04/Xiaomi-Redmi-10A.jpg"
+    },
+  
+    {
+        "id": "3",
+        "name": "Realme 9",
+        "ram": "6/ 8 GB",
+        "os": "Android 12 (Realme UI 3.0)",
+        "screensize": "6.4 inches",
+        "img":"https://www.mobiledokan.com/wp-content/uploads/2022/05/Realme-9.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Realme 8 Pro",
+        "ram": "8 GB",
+        "os": "Android 11 (Realme UI 2.0)",
+        "screensize": "6.4 inches",
+        "img":"https://www.mobiledokan.com/wp-content/uploads/2021/04/Realme-8-Pro-image.jpg"
+    },
+    {
+        "id": "5",
+        "name": "OnePlus Nord CE 2 Lite 5G",
+        "ram": "8 GB",
+        "os": "Android 12 (OxygenOS 12.1)",
+        "screensize": "6.59 inches",
+        "img":"https://www.mobiledokan.com/wp-content/uploads/2022/05/OnePlus-Nord-CE-2-Lite-5G.jpg"
+    },
+    {
+        "id": "6",
+        "name": "OnePlus Nord CE 5G",
+        "ram": "8 GB",
+        "os": "Android 11 (OxygenOS 11)",
+        "screensize": "6.43 inches",
+        "img":"https://www.mobiledokan.com/wp-content/uploads/2021/09/OnePlus-Nord-CE-5G-image.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Oppo A16",
+        "ram": "3 / 4 GB",
+        "os": "Android 11 (ColorOS 11.1)",
+        "screensize": "6.52 inches",
+        "img":"https://www.mobiledokan.com/wp-content/uploads/2021/08/Oppo-A16-image.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Oppo A15s",
+        "ram": "4 GB",
+        "os": "Android 10 (ColorOS 7.2)",
+        "screensize": "6.52 inches",
+        "img":"https://www.mobiledokan.com/wp-content/uploads/2021/02/Oppo-A15s-image.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Apple iPhone 13 Pro Max",
+        "ram": "6 GB",
+        "os": "iOS 15",
+        "screensize": "6.7 inches",
+        "img":"https://www.mobiledokan.com/wp-content/uploads/2021/10/Apple-iPhone-13-Pro-Max-image.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Apple iPhone 13",
+        "ram": "4 GB",
+        "os": "iOS 15",
+        "screensize": "6.1 inches",
+        "img":"https://www.mobiledokan.com/wp-content/uploads/2021/10/Apple-iPhone-13-image.jpg"
+    }
+    ,
+    {
+        "id": "2",
+        "name": "Xiaomi Poco C31",
+        "ram": "3 / 4 GB",
+        "os": "Android 10 (MIUI 12)",
+        "screensize": "6.53 inches",
+        "img":"https://www.mobiledokan.com/wp-content/uploads/2022/03/Xiaomi-Redmi-Note-11.jpg"
+    }
+]
